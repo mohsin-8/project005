@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Coda&display=swap");
+
+.navbar {
+  background-image: linear-gradient(to left, lightblue, #000);
+  font-family: "Coda", cursive;
+  color: #fff;
+}
+
+.link1 {
+  text-decoration: none;
+}
+
+.link2 {
+  text-decoration: none;
+}
+.link3 {
+  text-decoration: none;
+}
+.link4 {
+  text-decoration: none;
+}
+.link5 {
+  text-decoration: none;
+}

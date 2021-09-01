@@ -1,0 +1,52 @@
+{
+   "product1": {
+    "name": "Under Armour Men's Charged Assert 8 Mrble Running Shoe",
+    "img": "https://www.therightcup.com/wp-content/uploads/2017/03/shoes-banner-bg-1.jpg",
+    "price": 39.00
+   },
+   "product2": {
+      "name": "Under Armour Men's Charged Assert 8 Mrble Running Shoe",
+      "img": "https://www.insidesport.co/wp-content/uploads/2019/01/Adidas.jpg",
+      "price": 39.00
+     },
+     "product3": {
+      "name": "Under Armour Men's Charged Assert 8 Mrble Running Shoe",
+      "img": "https://media.wired.com/photos/609ae1bb42949dce92f153f2/master/pass/Gear_SS21_FUTURECRAFT_ALLBIRDS_BRAND_INNOVATION_PRODUCT_KV_2_PAIR.jpg",
+      "price": 39.00
+     },
+     "product4": {
+      "name": "Under Armour Men's Charged Assert 8 Mrble Running Shoe",
+      "img": "https://www.thoughtco.com/thmb/93A9tdMWiC7TGzjuFcryulE8jOs=/768x0/filters:no_upscale():max_bytes(150000):strip_icc()/32716134786_ef6e02d6fb_k-5c3d514346e0fb0001af0f44.jpg",
+      "price": 39.00
+     },
+     "product5": {
+      "name": "Under Armour Men's Charged Assert 8 Mrble Running Shoe",
+      "img": "https://images.unsplash.com/photo-1518002171953-a080ee817e1f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80",
+      "price": 39.00
+     },
+     "product6": {
+      "name": "The adidas Superstar Shoes",
+      "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/00097f2522784e6d96b0aba400aa87a1_9366/Daily_3.0_Shoes_Grey_FW3270_01_standard.jpg",
+      "price": 49.00
+     },
+     "product7": {
+      "name": "adidas Daily 3.0 Shoes - Grey",
+      "img": "https://assets.adidas.com/images/w_600,f_auto,q_auto/e12512f625984ae9b449aba400aaa4cc_9366/Daily_3.0_Shoes_Grey_FW3270.jpg",
+      "price": 59.00
+     },
+     "product8": {
+      "name": "Men's Shoes and Sneakers",
+      "img": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/f39b99c10ebb4257aad9ad1e00dd3afd_9366/nmd_r1-primeblue-shoes.jpg",
+      "price": 49.00
+     },
+     "product9": {
+      "name": "Addidas 3.0 Shoes",
+      "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/00097f2522784e6d96b0aba400aa87a1_9366/Daily_3.0_Shoes_Grey_FW3270_01_standard.jpg",
+      "price": 89.00
+     },
+     "product10": {
+      "name": "Under Armour Men's Charged Assert 8 Mrble Running Shoe",
+      "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/3bbb6b65391a4c5ebe45aba50160b664_9366/Daily_3.0_Shoes_Black_FW7033_01_standard.jpg",
+      "price": 39.00
+     }
+}
