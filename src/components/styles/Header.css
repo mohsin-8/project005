@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Coda&display=swap");
 
 .navbar {
-  background-image: linear-gradient(to left, lightblue, #000);
+  background-image: linear-gradient(to right, orange, #000);
   font-family: "Coda", cursive;
   color: #fff;
 }
