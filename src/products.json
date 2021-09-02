@@ -17,7 +17,7 @@
      "product4": {
       "name": "Under Armour Men's Charged Assert 8 Mrble Running Shoe",
       "img": "https://www.thoughtco.com/thmb/93A9tdMWiC7TGzjuFcryulE8jOs=/768x0/filters:no_upscale():max_bytes(150000):strip_icc()/32716134786_ef6e02d6fb_k-5c3d514346e0fb0001af0f44.jpg",
-      "price": 39.00
+      "price": 79.00
      },
      "product5": {
       "name": "Under Armour Men's Charged Assert 8 Mrble Running Shoe",
@@ -36,7 +36,7 @@
      },
      "product8": {
       "name": "Men's Shoes and Sneakers",
-      "img": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/f39b99c10ebb4257aad9ad1e00dd3afd_9366/nmd_r1-primeblue-shoes.jpg",
+      "img": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/62d96641e799450fbbdfad0800cb06ed_9366/nmd_r1-primeblue-shoes.jpg",
       "price": 49.00
      },
      "product9": {
@@ -47,9 +47,23 @@
      "product10": {
       "name": "Under Armour Men's Charged Assert 8 Mrble Running Shoe",
       "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/3bbb6b65391a4c5ebe45aba50160b664_9366/Daily_3.0_Shoes_Black_FW7033_01_standard.jpg",
-      "price": 39.00
+      "price": 79.00
      },
-
+     "product11": {
+      "name": "Under Armour Men's Charged Assert 8 Mrble Running Shoe",
+      "img": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/62d96641e799450fbbdfad0800cb06ed_9366/nmd_r1-primeblue-shoes.jpg",
+      "price": 99.00
+     },
+     "product12": {
+      "name": "Under Armour Men's Charged Assert 8 Mrble Running Shoe",
+      "img": "https://assets.adidas.com/images/w_600,f_auto,q_auto/459ff194c35e45ea91b1a8ba00fc4876_9366/NMD_R1_Shoes_Black_B42200_01_standard.jpg",
+      "price": 199.00
+     },
+     "product13": {
+      "name": "Under Armour Men's Charged Assert 8 Mrble Running Shoe",
+      "img": "https://cdn.zando.co.za/p/398720-1813-027893-1-400x.jpg",
+      "price": 59.00
+     },
      "purpose": {
       "name": "Under Armour Men's Charged Assert 8 Mrble Running Shoe",
       "img": "https://www.adidas-group.com/media/filer_public_thumbnails/filer_public/76/41/7641dd9b-e0b1-4a9f-8b38-8d545a0fd6ee/05_08_2021_purpose.jpg__1028x0_q85_crop-smart_subsampling-2.jpg"
